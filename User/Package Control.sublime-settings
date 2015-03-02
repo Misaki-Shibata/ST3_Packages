@@ -6,7 +6,10 @@
 	[
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"Codecs33",
 		"Color Highlighter",
+		"ColorSchemeSelector",
+		"ConvertToUTF8",
 		"Diffy",
 		"Emmet",
 		"FindKeyConflicts",
