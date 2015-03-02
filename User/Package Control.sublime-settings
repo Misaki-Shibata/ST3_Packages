@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Diffy",
+		"Emmet",
+		"FindKeyConflicts",
+		"GitGutter",
+		"GitStatus",
+		"Jade",
+		"Japanize",
+		"MacTerminal",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Stylus",
+		"SublimeHighlight",
+		"SublimeLinter",
+		"Sublimerge Pro"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3",
+		"https://github.com/titoBouzout/SideBarEnhancements.git"
+	]
+}
